@@ -2,7 +2,7 @@
 //  GitAppApp.swift
 //  GitApp
 //
-//  Created by Ayala Temirbek on 22.01.2024.
+//  Created by Ayala on 22.01.2024.
 //
 
 import SwiftUI
