@@ -2,10 +2,11 @@
 //  GitAppApp.swift
 //  GitApp
 //
-//  Created by Islam Temirbek on 22.01.2024.
+//  Created by Ayala Temirbek on 22.01.2024.
 //
 
 import SwiftUI
+import Foundation
 
 @main
 struct GitAppApp: App {
